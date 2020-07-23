@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatosmolski@gmail.com)](mailto:contatosmolski@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/smolskig/)](https://www.instagram.com/smolskig/)
 
-#### 👨‍💻 Development
+### 👨‍💻 Development:
 #### I'm a front-end developer, currently working with Vue on fulltime job, but studying others technologies to expand my knowledge
 
 - ![js-icon](https://user-images.githubusercontent.com/50807768/87238504-7a931300-c3d9-11ea-883f-b9dd223e1e5f.png)  Javascript
@@ -14,7 +14,7 @@
 
 - ![node-icon](https://user-images.githubusercontent.com/50807768/88297165-f93f5880-ccd5-11ea-8a2d-f352de3fd9f7.png)  Node
 
-#### ✍️ Design
+### ✍️ Design:
 #### As a front-end developer i also need to work with some Design technologies, in order to improve the beauty of my interfaces.
 
 - ![figma-icon](https://user-images.githubusercontent.com/50807768/88301054-8edce700-ccda-11ea-8bae-311e951651fe.png) Figma
