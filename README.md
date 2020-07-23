@@ -6,7 +6,7 @@
 ### Technologies:
 
 #### 👨‍💻 Development
-##### I'm a front-end developer, currently working with Vue on fulltime job, but studying others technologies to expand my knowledge
+#### I'm a front-end developer, currently working with Vue on fulltime job, but studying others technologies to expand my knowledge
 
 - ![js-icon](https://user-images.githubusercontent.com/50807768/87238504-7a931300-c3d9-11ea-883f-b9dd223e1e5f.png)  Javascript
 
@@ -17,14 +17,14 @@
 - ![node-icon](https://user-images.githubusercontent.com/50807768/88297165-f93f5880-ccd5-11ea-8a2d-f352de3fd9f7.png)  Node
 
 #### ✍️ Design
-##### As a front-end developer i also need to work with some Design tecnologies, in order to improve the beauty of my interfaces.
+#### As a front-end developer i also need to work with some Design tecnologies, in order to improve the beauty of my interfaces.
 
 - ![figma-icon](https://user-images.githubusercontent.com/50807768/88301054-8edce700-ccda-11ea-8bae-311e951651fe.png) Figma
 
 - ![photoshop-icon](https://user-images.githubusercontent.com/50807768/88301077-943a3180-ccda-11ea-96e6-df42208aaa01.png) Photoshop
 
 ### 🎮 Hobbies:
-##### I like to do a lot of stuff from game development to music production 
+#### I like to do a lot of stuff from game development to music production 
 
 - ![godot-icon](https://user-images.githubusercontent.com/50807768/88297157-f6446800-ccd5-11ea-8b00-1be26b0a3e89.png) Godot Engine
 
