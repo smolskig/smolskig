@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/smolskig/)](https://www.instagram.com/smolskig/)
 
 ### 👨‍💻 Development:
-#### I'm a front-end developer, currently working with Vue on fulltime job, but studying others technologies to expand my knowledge
+#### I'm a front-end developer, currently working with React on a fulltime job, but studying others technologies to expand my knowledge
 
 - ![js-icon](https://user-images.githubusercontent.com/50807768/87238504-7a931300-c3d9-11ea-883f-b9dd223e1e5f.png)  Javascript
 
