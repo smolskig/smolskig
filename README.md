@@ -1,5 +1,4 @@
 <h1 align="center">Hi, i'm Gabriel Smolski - @smolskig <img href="https://user-images.githubusercontent.com/50807768/87238438-e759dd80-c3d8-11ea-82e1-075f09d5cba2.png"/> </h1>
-<h3 align="center">Front-end developer, currently working with React, but studying others technologies to expand my knowledge</h3>
                   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smolskig/)](https://www.linkedin.com/in/smolskig/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatosmolski@gmail.com)](mailto:contatosmolski@gmail.com)
