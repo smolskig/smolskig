@@ -2,19 +2,20 @@
                   
 ### 👨‍💻 Development:
 
- ![js-icon](https://user-images.githubusercontent.com/50807768/87238504-7a931300-c3d9-11ea-883f-b9dd223e1e5f.png)  Javascript
+ - ![js-icon](https://user-images.githubusercontent.com/50807768/87238504-7a931300-c3d9-11ea-883f-b9dd223e1e5f.png)  Javascript
 
- ![vue-logo](https://user-images.githubusercontent.com/50807768/87238469-22f4a780-c3d9-11ea-90d4-a8239a4198c9.png)  Vue
+ - ![vue-logo](https://user-images.githubusercontent.com/50807768/87238469-22f4a780-c3d9-11ea-90d4-a8239a4198c9.png)  Vue
 
- ![react-logo](https://user-images.githubusercontent.com/50807768/88297175-fa708580-ccd5-11ea-92c3-4f35e64f1b85.png)  React
+ - ![react-logo](https://user-images.githubusercontent.com/50807768/88297175-fa708580-ccd5-11ea-92c3-4f35e64f1b85.png)  React
 
- ![node-icon](https://user-images.githubusercontent.com/50807768/88297165-f93f5880-ccd5-11ea-8a2d-f352de3fd9f7.png)  Node
+ - ![node-icon](https://user-images.githubusercontent.com/50807768/88297165-f93f5880-ccd5-11ea-8a2d-f352de3fd9f7.png)  Node
 
 ### ✍️ Design:
 
- ![figma-icon](https://user-images.githubusercontent.com/50807768/88301054-8edce700-ccda-11ea-8bae-311e951651fe.png) Figma
+ - ![figma-icon](https://user-images.githubusercontent.com/50807768/88301054-8edce700-ccda-11ea-8bae-311e951651fe.png) Figma
 
- ![photoshop-icon](https://user-images.githubusercontent.com/50807768/88301077-943a3180-ccda-11ea-96e6-df42208aaa01.png) Photoshop
+ - ![photoshop-icon](https://user-images.githubusercontent.com/50807768/88301077-943a3180-ccda-11ea-96e6-df42208aaa01.png) Photoshop
+ 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=smolskig&show_icons=true" alt="phelliperodrigues" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smolskig/)](https://www.linkedin.com/in/smolskig/)
