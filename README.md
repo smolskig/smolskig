@@ -16,7 +16,7 @@
 
  - ![photoshop-icon](https://user-images.githubusercontent.com/50807768/88301077-943a3180-ccda-11ea-96e6-df42208aaa01.png) Photoshop
  
-<p> <img src="https://github-readme-stats.vercel.app/api?username=smolskig&show_icons=true" alt="phelliperodrigues" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=smolskig&show_icons=true" alt="gabrielSmolski" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smolskig/)](https://www.linkedin.com/in/smolskig/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contatosmolski@gmail.com)](mailto:contatosmolski@gmail.com)
