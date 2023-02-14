@@ -1,1 +1,1 @@
-![new gthb](https://user-images.githubusercontent.com/50807768/218644869-b9e9a529-16b4-4e26-a06a-71a07e9c4afc.svg)
+![gthb-no-photo](https://user-images.githubusercontent.com/50807768/218645333-4ccb5fa1-68d1-49c7-93c4-e4db9b18ece6.svg)
